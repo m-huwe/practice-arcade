@@ -10,3 +10,20 @@ header {
     height: 10vh;
     background-color: #f401b2;
 }
+
+.logo {
+    margin-left: 10px;
+    position: relative;
+}
+
+#logo_img {
+    display: inline-flex;
+    position: relative;
+    width: 5vw;
+}
+
+#logo_text {
+    display: inline-flex;
+    position: relative;
+    width: 40vw;
+}
