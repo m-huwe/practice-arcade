@@ -1,0 +1,15 @@
+Black  —  #101010
+Pink  —  #f401b2
+DarkPink  —  #b20f4d
+DarkPurple  —  #46084f
+LightPurple  —  #bf8ce0
+Purple  —  #9417a7
+DarkBlue  —  #2e15e7
+LightBlue  —  #25bdef
+Blue  —  #2567ef
+Seafoam  —  #25efda
+BrightGreen  —  #25ef59
+Yellow  —  #d5ef25
+Orange  —  #ef6725
+White  —  #def0ef
+Gray  —  #9b9b9b
