@@ -1,0 +1,12 @@
+body  {
+    background-color: #101010;
+    background-image: url('./Images/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    width: auto;
+    height: 10vh;
+    background-color: #f401b2;
+}
