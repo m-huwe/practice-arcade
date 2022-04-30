@@ -16,12 +16,12 @@ function Header() {
         <img className='logo' id='logo_text' src={logoText}></img>
       </header>
       <nav className='nav'>
-        <Link to='/'>Home</Link> | {' '}
-        <Link to='/game1'>Game 1</Link> | {' '}
-        <Link to='/game2'>Game 2</Link> | {' '}
-        <Link to='/game3'>Game 3</Link> | {' '}
-        <Link to='/about'>About</Link>
-      </nav>
+          <Link className ='navLink' to='/'>Home</Link>
+          <Link className ='navLink' to='/game1'>Game 1</Link>
+          <Link className ='navLink' to='/game2'>Game 2</Link>
+          <Link className ='navLink' to='/game3'>Game 3</Link>
+          <Link className ='navLink' to='/about'>About</Link>
+        </nav>
     </div>
   )
 }
