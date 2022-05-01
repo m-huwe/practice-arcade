@@ -1,6 +1,10 @@
 import React from 'react'
 import '../Styles/about.css';
 import gameRoom from '../Images/gameRoom.png';
+import github from '../Images/GitHub.png';
+import insta from '../Images/Insta.png';
+import linkedin from '../Images/LinkedIn.png';
+import Form from '../Components/Form';
 
 function About_Page() {
 
@@ -8,6 +12,9 @@ function About_Page() {
     <div className="parent">
       <div className="div1">
         <h2>- Social -</h2>
+        <div className='social'><img src={github}/></div>
+        <div className='social'><img src={linkedin}/></div>
+        <div className='social'><img src={insta}/></div>
       </div>
       <div className="div2">
         <h2>- About -</h2>
@@ -17,6 +24,7 @@ function About_Page() {
       </div>
       <div className="div3">
         <h2>- Contact -</h2>
+        <Form/>
       </div>
     </div>
   )

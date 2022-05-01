@@ -8,20 +8,20 @@ header {
 
 .logo {
   margin-left: 10px;
-  position: fixed;
+  position: relative;
 }
 
 #logo_img {
   display: inline-block;
-  position: fixed;
+  position: relative;
   width: 55px;
 }
 
 #logo_text {
   display: inline-block;
-  position: fixed;
+  position: relative;
   width: 430px;
-  margin-left: 70px;
+  margin-left: 5px;
   margin-top: 33px;
 }
 
