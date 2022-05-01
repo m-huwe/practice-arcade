@@ -1,0 +1,31 @@
+.container {
+  margin: auto;
+  margin-top: 120px;
+  width: 80vw;
+  height: auto;
+  background: #2424240c;
+  border-radius: 55px;
+  border: 2px outset #25efda;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1, p {
+  color: #def0ef;
+  position: relative;
+  text-align: center;
+}
+
+p {
+  font-size: larger;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+
+#sign {
+  display: block;
+  width: 60vw;
+  position: relative;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
